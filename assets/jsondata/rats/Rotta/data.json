@@ -1,0 +1,9 @@
+{
+	"rarity": 0,
+	"name": "Rotta", 
+	"stats": [{
+		"health": 1,
+		"attack": 1,
+		"defense": 1
+	}]
+}

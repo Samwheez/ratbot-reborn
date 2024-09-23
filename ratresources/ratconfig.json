@@ -1,0 +1,11 @@
+{
+	"gimmeCooldown": 6000,
+	"gimmeAmount": 1,
+	"rollPrice": 1,
+	"rarityPercentChance": [
+		58.5,
+		35,
+		5, 
+		1.5
+	]
+}

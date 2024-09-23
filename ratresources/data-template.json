@@ -1,0 +1,15 @@
+{
+	"_comment" : [{
+		"READ_ME": "Edit the data fields in this file, then remove the _comment field.  Remember to save as data.json in the directory you made for you rat.",
+		"READ_ME_2": "Rarity is increasing and its range is 0-3 inclusive.",
+		"READ_ME_3": "Health, attack, and defense cannot go below 1 or above 10",
+		"READ_ME_4": "Store this file saved as data.json in the same directory as image.png",
+	}],
+	"rarity": 0,
+	"name": "", 
+	"stats": [{
+		"health": 0,
+		"attack": 0,
+		"defense": 0
+	}],
+}
